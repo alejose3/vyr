@@ -1,0 +1,103 @@
+/*
+Theme Name: vyr abogados
+Author: IMDIGRAFIC
+Author URI:
+Description: Tema para firm de abogados VyR
+Version: 1.0
+Tags: attorney, law
+*/
+body{
+  font-family: 'Roboto', sans-serif;
+}
+h1, h2, h3, h4, h5, p{
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  font-size: 2.5rem;
+  font-weight: 300;
+}
+h2{
+  font-size: 2rem;
+  font-weight: 300;
+}
+h3{
+  font-size: 1.75rem;
+  font-weight: 300;
+}
+h4{
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+h5{
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+p{
+  font-weight: 300;
+}
+.fondo{
+  background: url(img/fondo-erazo-1.png);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+  .pagina{
+    background: url(img/fondo-nosotros.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.filos{
+  background: url(img/fondo-filosofia.png);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.bg-navcolor{
+  background-color: #142f51;
+
+}
+.fondo-2{
+  background-color: rgba(0,0,0,.5);
+  height: 100vh;
+}
+.bg-redes{
+  background-color: #002f6c;
+}
+.bg-equipo{
+  background-color: #858585;
+}
+.bg-footer{
+  background-color: #142f51;
+}
+.bg-page{
+  background-color: #002f6c;
+}
+.formulario1{
+  padding: 20px;
+}
+.btn{
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.pb-25{
+  padding-bottom: 2.5rem;
+}
+.iconos{
+  font-size: 2.25rem;
+}
+.card-title{
+  font-weight: 400;
+}
+.card{
+  border: none;
+}
+.marca{
+  font-style: italic;
+  font-size: 12px;
+}
